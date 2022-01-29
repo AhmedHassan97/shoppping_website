@@ -18,7 +18,7 @@ class MyDocument extends Document {
           <meta name="description" content="This is Store Website" />
           <meta name="format-detection" content="telephone=no" />
           <meta name="mobile-web-app-capable" content="yes" />
-          {/* <link
+          <link
             rel="apple-touch-icon"
             sizes="192x192"
             href="icon-192x192.png"
@@ -30,7 +30,7 @@ class MyDocument extends Document {
             href="/icon-192x192.png"
           />
           <link rel="manifest" href="/manifest.json" />
-          <link rel="shortcut icon" href="/favicon.ico" /> */}
+          <link rel="shortcut icon" href="/favicon.ico" />
 
           <link
             href="https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap"
